@@ -1,0 +1,6 @@
+@Coderama.Api_HostAddress = http://localhost:5230
+
+GET {{Coderama.Api_HostAddress}}/documents/
+Accept: application/json
+
+###
